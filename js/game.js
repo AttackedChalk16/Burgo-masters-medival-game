@@ -50,7 +50,7 @@
 
 
 	var game = {
-		gold: 1000000,
+		gold: 10000,
 		gems: 20,
 		pop: config.startPop,
 		season: 2, //1 - Winter, 2 - Spring, 3 - Summer, 4 - Autumn
@@ -58,7 +58,7 @@
 		food: 50,
 		treasuryGuard: 0,
 		buildLevelD: 0,
-		buildLevelH: 100,
+		buildLevelH: 10,
 		buildLevelTreasury: 0,
 		buildLevelGallows: 0,
 		buildLevelFountain: 0,
